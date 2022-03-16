@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: kycker.siteuptimely.com
   # baseUrl: /your-repo-name
-  logoUrl: https://www.kycker.net/wp-content/uploads/2018/11/cropped-Kycker-Fav-32x32.png
+  logoUrl: https://raw.githubusercontent.com/applabomatic/kycker/master/assets/Kycker.svg
   name: Kycker
 #  introTitle: "[**Kycker**](https://kycker.net/) is a trusted website monitoring tool that helps keep track of your website's downtime, performance, and domain health."
 #  introMessage: It is used by thousands of websites all over the world.
