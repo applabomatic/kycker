@@ -28,7 +28,7 @@ status-website:
       href: https://kycker.net/
     - title: Status
       href: /
-  theme: dark
+  theme: night
 # light, dark, night, ocean
   robotsText: "User-agent: * \n Disallow: /"
   
