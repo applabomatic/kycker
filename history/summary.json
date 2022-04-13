@@ -4,18 +4,20 @@
     "url": "https://kycker.net/",
     "icon": "https://favicons.githubusercontent.com/kycker.net",
     "slug": "kycker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1155,
-    "timeDay": 1352,
-    "timeWeek": 1211,
-    "timeMonth": 1155,
-    "timeYear": 1155,
-    "dailyMinutesDown": {}
+    "time": 1159,
+    "timeDay": 1314,
+    "timeWeek": 1218,
+    "timeMonth": 1159,
+    "timeYear": 1159,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Kycker Blog",
