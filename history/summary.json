@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kycker.net",
     "slug": "kycker",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 1222,
-    "timeDay": 753,
-    "timeWeek": 1436,
-    "timeMonth": 1270,
-    "timeYear": 1222,
+    "uptimeYear": "99.97%",
+    "time": 1225,
+    "timeDay": 1438,
+    "timeWeek": 1439,
+    "timeMonth": 1290,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2022-04-13": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
-    "timeDay": 479,
-    "timeWeek": 711,
-    "timeMonth": 695,
+    "timeDay": 738,
+    "timeWeek": 705,
+    "timeMonth": 705,
     "timeYear": 783,
     "dailyMinutesDown": {}
   }
