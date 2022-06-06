@@ -4,9 +4,9 @@
     "url": "https://kycker.net/",
     "icon": "https://favicons.githubusercontent.com/kycker.net",
     "slug": "kycker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1122,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2022-06-06": 0,
       "2022-04-13": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://blog.kycker.net/",
     "icon": "https://favicons.githubusercontent.com/blog.kycker.net",
     "slug": "kycker-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 595,
     "timeMonth": 596,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-06": 0
+    }
   }
 ]
