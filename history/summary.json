@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kycker.net.ico",
     "slug": "kycker",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 1549,
-    "timeWeek": 1184,
-    "timeMonth": 1062,
-    "timeYear": 1141,
+    "time": 1146,
+    "timeDay": 1582,
+    "timeWeek": 1214,
+    "timeMonth": 1067,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-12-05": 15
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 851,
-    "timeWeek": 624,
-    "timeMonth": 571,
-    "timeYear": 605,
+    "timeDay": 826,
+    "timeWeek": 641,
+    "timeMonth": 574,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   }
 ]
