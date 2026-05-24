@@ -4,16 +4,16 @@
     "url": "https://kycker.net/",
     "icon": "https://icons.duckduckgo.com/ip3/kycker.net.ico",
     "slug": "kycker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.05%",
-    "time": 1209,
-    "timeDay": 711,
-    "timeWeek": 1492,
-    "timeMonth": 1512,
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.04%",
+    "time": 1210,
+    "timeDay": 921,
+    "timeWeek": 1478,
+    "timeMonth": 1507,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2026-02-06": 193,
@@ -67,7 +67,7 @@
       "2026-05-01": 17,
       "2026-05-02": 85,
       "2026-05-21": 96,
-      "2026-05-24": 0
+      "2026-05-24": 64
     }
   },
   {
@@ -75,15 +75,15 @@
     "url": "https://blog.kycker.net/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kycker.net.ico",
     "slug": "kycker-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.05%",
-    "time": 793,
-    "timeDay": 588,
-    "timeWeek": 976,
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.04%",
+    "time": 794,
+    "timeDay": 716,
+    "timeWeek": 975,
     "timeMonth": 1004,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
       "2026-05-01": 17,
       "2026-05-02": 85,
       "2026-05-21": 95,
-      "2026-05-24": 0
+      "2026-05-24": 64
     }
   }
 ]
