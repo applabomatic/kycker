@@ -1,7 +1,7 @@
 url: https://blog.kycker.net/
-status: up
-code: 200
-responseTime: 1305
-lastUpdated: 2026-08-14T23:11:56.802Z
+status: down
+code: 503
+responseTime: 429
+lastUpdated: 2026-08-15T04:30:04.599Z
 startTime: 2022-03-16T19:28:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
